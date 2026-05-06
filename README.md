@@ -21,7 +21,7 @@
 - Pursuing **Computer Science and Engineering** at Government Girls Polytechnic (5th sem SGPA: 85.9)
 - Passionate about turning raw data into meaningful insights
 - Currently learning **SQL**, **Python** and **Data Analysis**
-- Actively looking for **internships** and **fresher roles** in Data Analytics
+- Actively looking for **internships** and **fresher roles** 
 - Based in **Dehradun,Uttrakhand, India**
 
 ---
