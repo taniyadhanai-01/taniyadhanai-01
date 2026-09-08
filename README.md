@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Taniya Dhanai</h1>
 
 <p align="center">
-  <b>CSE Diploma Student | Aspiring Data Analyst | SQL | Python | Open to Internships</b>
+  <b>AIML B.tech Student</b>
 </p>
 
 <p align="center">
@@ -17,11 +17,8 @@
 ---
 
 ### About Me
-
-- Pursuing **Computer Science and Engineering** at Government Girls Polytechnic (5th sem SGPA: 85.9)
-- Passionate about turning raw data into meaningful insights
-- Currently learning **SQL**, **Python** and **Data Analysis**
-- Actively looking for **internships** and **fresher roles** 
+- Pursuing B.Tech in **Artificial Intelligence and Machine Learning**.
+- Completed Diploma in **Computer Science and Engineering**.
 - Based in **Dehradun,Uttrakhand, India**
 
 ---
@@ -30,7 +27,6 @@
 
 - SQL (MySQL, queries, joins, subqueries)
 - Python (Pandas,numpy,matplotlib)
-- Microsoft Excel (Pivot Tables,charts)
 - C programming
 - Machine Learning basics
 
